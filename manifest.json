@@ -6,7 +6,7 @@
 
 	"content_scripts": [
 		{
-			"matches": ["*://*.mozilla.org/*"],
+			"matches": ["*://*.netflix.com/*"],
 			"js": ["netflix-reviews.js"]
 		}
 	]
